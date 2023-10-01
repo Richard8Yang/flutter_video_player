@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\plugins\\packages\\video_player\\video_player\\example\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\5f5e792acd1d8373e906efd73c4b888f\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\plugins\\packages\\video_player\\video_player\\example\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\5f5e792acd1d8373e906efd73c4b888f\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\plugins\\packages\\video_player\\video_player\\example\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\5f5e792acd1d8373e906efd73c4b888f\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\plugins\\packages\\video_player\\video_player\\example\\build\\video_player_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\5f5e792acd1d8373e906efd73c4b888f\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

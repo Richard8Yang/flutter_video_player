@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Workspace\\plugins\\packages\\video_player\\video_player\\example\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\256154c714d8de2faecae977d9fc9d49\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,179,246,308,390,471,572,667",
+                        "endColumns": "64,58,66,61,81,80,100,94,83",
+                        "endOffsets": "115,174,241,303,385,466,567,662,746"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rpy\\.gradle\\caches\\transforms-3\\5f5e792acd1d8373e906efd73c4b888f\\transformed\\core-1.7.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "751",
+                        "endColumns": "100",
+                        "endOffsets": "847"
+                    }
+                }
+            ]
+        }
+    ]
+}
