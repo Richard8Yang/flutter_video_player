@@ -1,2 +1,0 @@
-com/pinciat/external_path/BuildConfig.java
- com.pinciat.external_path.BuildConfig
