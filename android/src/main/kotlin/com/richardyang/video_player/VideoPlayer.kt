@@ -176,6 +176,11 @@ internal class VideoPlayer {
                     Log.d("INFO ", "Video size changed to: %d x %d".format(videoSize.width, videoSize.height))
                     textureEntry.surfaceTexture().setDefaultBufferSize(videoSize.width, videoSize.height)
                     renderer?.updateTextureSize(videoSize.width, videoSize.height)
+                    val event: MutableMap<String, Any> = HashMap()
+                    event["event"] = "resolutionUpdate"
+                    event["width"] = videoSize.width
+                    event["height"] = videoSize.height
+                    eventSink?.success(event)
                 }
 
                 override fun onPlayerError(error: PlaybackException) {

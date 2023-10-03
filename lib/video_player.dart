@@ -238,6 +238,9 @@ class VideoPlayerController extends ValueNotifier<VideoPlayerValue> {
             value = value.copyWith(isBuffering: false);
           }
           break;
+        case VideoEventType.resolutionUpdate:
+          value = value.copyWith(size: event.size);
+          break;
 
         // case VideoEventType.play:
         //   play();
